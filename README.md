@@ -6,7 +6,7 @@
     "تلفن": "0",
     "سایت": "0",
     "اینستاگرام": "0",
-    "لینک عکس اول": "https://s16.picofile.com/file/8428115850/bitmap.jpg",
-    "لینک عکس دوم": "https://s17.picofile.com/file/8428115876/www_araas_ir_30_2.jpg"
+    "لینک عکس اول": "https://s16.picofile.com/file/8428116200/1615857139236.png",
+    "لینک عکس دوم": "https://s16.picofile.com/file/8428116218/1615857109801.png"
   }
 ]
